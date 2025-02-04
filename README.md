@@ -38,6 +38,8 @@ Evaluation – Measuring accuracy, precision, recall, and F1-score.
 
 Prediction – Classifying new speech samples into respective emotions.
 
+Did these processses with predefined models like VGG19,VGG16,InceptionV3,Resnet50 and compared the results with our proposed model.
+
 ## Key Insights
 Speech signals can be effectively classified into emotions using histograms.
 
