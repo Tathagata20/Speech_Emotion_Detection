@@ -26,6 +26,7 @@ Matplotlib, Seaborn – Data Visualization
 Jupyter Notebook – Model Training & Experimentation
 
 ## Dataset
+- <a href="https://www.kaggle.com/datasets/uwrfkaggler/ravdess-emotional-speech-audio">Speech_Emotion_Dataset</a>
 
 ## Model Workflow
 Audio Preprocessing – Noise reduction, feature extraction using Mel spectrograms.
